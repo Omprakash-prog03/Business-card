@@ -1,0 +1,145 @@
+*{
+background-color: black;
+}
+.box{
+background-image: url(image.jpg);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+width: 20rem;
+height: 37rem;
+border-radius: 24px;
+border: 5px solid slateblue;
+}
+.sub-container{
+display: flex;
+justify-content: center;
+}
+.profile-picture{
+background-color: transparent;
+width: 12rem;
+height: auto;
+position: relative;
+top:2.5rem;
+left:12px;
+filter: brightness(1);
+filter: saturate(23);
+}
+.image-box{
+background-color: rgb(75, 67, 75);
+box-sizing: border-box;
+width: 15rem;
+height: 15rem;
+border-radius: 24px;
+border: 4px solid silver;
+}
+.for-centre{
+display: flex;
+justify-content: center;
+background-color: transparent;
+position: relative;
+top:2.3rem;
+}
+.name{
+background-color: transparent;
+position: relative;
+top:25px;
+text-align: center;
+font-size: 16px;
+font-family: "Playwrite PL", cursive;
+font-optical-sizing: auto;
+font-weight: bold;
+font-style:normal;
+}
+.name1{
+background-color: transparent;
+}
+.designation{
+background-color: transparent;
+position: relative;
+top:15px;
+text-align: center;
+font-size: 14px;
+font-family: "Playwrite PL", cursive;
+font-optical-sizing: auto;
+font-weight: bold;
+font-style:normal;
+}
+.app-name{
+width: 45px;
+height: auto;
+}
+.social-media-connections{
+background-color: transparent;
+}
+.social-media{
+position: relative;
+text-align: left;
+font-size: 14px;
+font-family: "Playwrite PL", cursive;
+font-optical-sizing: auto;
+font-weight: bold;
+font-style:normal;
+}
+.social-media-name{
+font-size: 14px;
+font-family: "Playwrite PL", cursive;
+font-optical-sizing: auto;
+font-weight: bold;
+font-style:normal;
+}
+.linkedin,.twitter,.github{
+background-color: transparent;
+}
+.social-media-connections{
+display: flex;
+justify-content: space-evenly;
+position: relative;
+top:-20px;
+}
+.tagline{
+font-size: 14px;
+font-family: "Playwrite PL", cursive;
+font-optical-sizing: auto;
+font-weight: bold;
+font-style:normal;
+text-align: center;
+}
+.backside{
+background-image: url(image.jpg);
+background-position: center;
+background-size: cover;
+background-repeat: no-repeat;
+width: 20rem;
+height: 37rem;
+border-radius: 24px;
+border: 5px solid slateblue;
+}
+.name-user-card-maker{
+background-color: transparent;
+transform: rotate(270deg);
+width: 50rem;
+filter:opacity(0.7) ;
+height: auto;
+position: relative;
+top:120px;
+}
+.image-center{
+background-color: transparent;
+display: flex;
+justify-content: center;
+}
+.social-media{
+position: relative;
+left:39px;
+}
+.backside{
+position: relative;
+left:40px;
+}
+.email{
+    text-align: center;
+    transform: rotate(90deg);
+    position: relative;
+    top:500px
+}
